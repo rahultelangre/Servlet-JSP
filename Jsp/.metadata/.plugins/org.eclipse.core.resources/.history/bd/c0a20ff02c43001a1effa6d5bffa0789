@@ -1,0 +1,29 @@
+package com.nt.string_01;
+
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+import java.util.TreeSet;
+
+public class FInd_Duplicate_Char_03 {
+   public static void main(String[] args) {
+	   FInd_Duplicate_Char_03  f=new FInd_Duplicate_Char_03();
+	   try {
+		   System.out.println(f.divide(10, 0));
+	   }
+	   catch (Exception e) {
+		System.out.println("div");
+	}
+	   
+   }
+   public Integer divide(int a,int b) {
+	   try {
+		   return a/b;
+		   
+	   }
+	   finally {
+		   System.out.println("finally");
+	   }
+   }
+   
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<h1 style="color:red">Welcome To Marriag Application</h1>
+<form action="marriageurl" method="post" onSubmit="return validate(this)">
+Person Name::<input type="text" name="pname"/><span id="nameErr"></span><br>
+Age        ::<input type="text" name="page"/><span id="ageErr"></span><br>
+gender     ::<input type="radio" name="gender" value="M" checked>Male;&nbsp;&nbsp;
+<input type="radio" name="gender" value="F">Female<br>
+check_Avialable::<input type="submit" value="send">
+</form>
+
+<script type="text/javascript">
+function validate(frm){
+	//document.getElementById("nameErr").innerHtml="";
+	//document.getElementById("ageErr").innerHtml="";
+	//document.getElementById("nameErr").style="color:red";
+	//document.getElementById("ageErr").style="color:red";
+	//read from data
+	
+	var name=frm.pname.value;
+	var age=frm.page.value;
+	if(name==""){
+		document.getElementById("nameErr").innerHTML="person name is required";
+	//alert("person name is required");
+		frm.pname.focus();
+		return false;
+	}
+	if(age==""){
+	//	alert("person age is required");
+		document.getElementById("ageErr").innerHTML="person age is required";
+		frm.page.focus();
+		return false;
+	}
+	else{
+		if(isNaN(age)){
+			document.getElementById("ageErr").innerHTML="person age is numeric required";
+			//alert("person age is numeric required");
+			frm.page.focus();
+			frm.page.value="";
+			return false;
+		}
+		else if(age<0 || age>125){
+			document.getElementById("ageErr").innerHTML="person age range is 1 to 125";
+		//	alert("person age range is 1 to 125");
+			frm.page.focus();
+			frm.page.value="";
+			return false;
+		}//else if
+	}//else
+	document.getElementById("nameErr").innerHtml="";
+	document.getElementById("ageErr").innerHtml="";
+	return true;
+}
+</script>
+<a href="marriageurl">please check system date</a>
+</body>
+</html>

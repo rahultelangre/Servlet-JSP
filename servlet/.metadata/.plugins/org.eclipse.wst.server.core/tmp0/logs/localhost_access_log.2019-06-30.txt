@@ -1,0 +1,5 @@
+127.0.0.1 - - [30/Jun/2019:00:14:21 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:00:14:21 +0530] "GET /Servlet20-FileUploading/ HTTP/1.1" 200 442
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:00:14:22 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:00:14:47 +0530] "POST /Servlet20-FileUploading/updurl HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [30/Jun/2019:00:48:04 +0530] "POST /Servlet20-FileUploading/updurl HTTP/1.1" 200 79

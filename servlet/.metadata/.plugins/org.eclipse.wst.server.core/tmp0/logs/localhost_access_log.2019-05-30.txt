@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/May/2019:23:16:24 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/May/2019:23:16:25 +0530] "GET /Servlet08-Multiple-Hyperlink2/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/May/2019:23:16:35 +0530] "GET /Servlet08-Multiple-Hyperlink2/processurl?t1=123&t2=123&src=sum&s1=add HTTP/1.1" 200 108
+0:0:0:0:0:0:0:1 - - [30/May/2019:23:16:37 +0530] "GET /Servlet08-Multiple-Hyperlink2/link.html HTTP/1.1" 304 -

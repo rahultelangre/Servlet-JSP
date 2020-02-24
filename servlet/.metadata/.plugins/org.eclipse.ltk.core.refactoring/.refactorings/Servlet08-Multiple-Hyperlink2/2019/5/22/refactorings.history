@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LinkServlet.java&apos; to &apos;Servlet08-Multiple-Hyperlink2/src/com.nt.servlet&apos;&#x0D;&#x0A;- Original project: &apos;Servlet08-Multiple-Hyperlink2&apos;&#x0D;&#x0A;- Destination element: &apos;Servlet08-Multiple-Hyperlink2/src/com.nt.servlet&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.servlet.LinkServlet.java&apos;" description="Copy compilation unit" destination="/src&lt;com.nt.servlet" element1="/src&lt;com.nt.servlet{LinkServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1558984006373" units="1" version="1.0"/>
+</session>

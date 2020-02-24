@@ -1,0 +1,95 @@
+
+May 22, 2019 19:54:47.86 NEW SESSION
+May 22, 2019 19:54:47.86 [4356:1720:0522/195447.866:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 22, 2019 19:55:10.68 [4356:1720:0522/195510.686:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 22, 2019 19:56:08.62 [4356:1720:0522/195608.619:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+May 22, 2019 19:57:29.26 [4356:1720:0522/195729.264:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jun 17, 2019 11:34:50.10 NEW SESSION
+Jun 17, 2019 11:34:50.10 [1360:4188:0617/113450.086:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Jun 17, 2019 11:45:33.68 [1360:4188:0617/114533.684:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 11:46:02.77 [1360:4188:0617/114602.772:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 11:46:50.63 [1360:4188:0617/114650.636:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 11:48:27.14 [1360:4188:0617/114827.146:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 11:51:12.47 [1360:4188:0617/115112.478:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 11:57:43.54 [1360:4188:0617/115743.546:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:07:43.55 [1360:4188:0617/120743.556:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:17:43.55 [1360:4188:0617/121743.559:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:27:43.57 [1360:4188:0617/122743.571:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:35:27.26 [1360:3480:0617/123527.259:ERROR:browser_process_sub_thread.cc(217)] Waited 135 ms for network service
+Jun 17, 2019 12:38:30.36 [2852:2924:0617/123830.366:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:38:55.16 [2852:2924:0617/123855.164:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:39:41.20 [2852:2924:0617/123941.202:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:41:20.30 [2852:2924:0617/124120.300:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 17, 2019 12:44:33.10 [2852:2924:0617/124433.106:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jun 24, 2019 10:57:40.48 NEW SESSION
+Jun 24, 2019 10:57:40.48 [5948:6224:0624/105740.471:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 10:58:07.81 [5948:6224:0624/105807.815:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 10:59:07.70 [5948:6224:0624/105907.702:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:00:49.57 [5948:6224:0624/110049.575:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:04:04.71 [5948:6224:0624/110404.719:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:10:42.66 [5948:6224:0624/111042.668:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:19:28.07 [5948:6224:0624/111928.078:ERROR:textfield.cc(1758)] NOT IMPLEMENTED
+Jun 24, 2019 11:20:29.89 [5948:6224:0624/112029.893:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:30:29.89 [5948:6224:0624/113029.896:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:40:29.90 [5948:6224:0624/114029.901:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 11:50:29.90 [5948:6224:0624/115029.908:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 12:00:29.91 [5948:6224:0624/120029.911:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 12:10:29.91 [5948:6224:0624/121029.915:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 12:20:29.92 [5948:6224:0624/122029.919:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 12:30:29.92 [5948:6224:0624/123029.922:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 24, 2019 12:38:50.52 [5948:3492:0624/123850.524:ERROR:browser_process_sub_thread.cc(221)] Waited 2685 ms for network service
+Jun 24, 2019 13:06:19.96 [3076:7628:0624/130619.968:ERROR:browser_process_sub_thread.cc(221)] Waited 280 ms for network service
+
+Jun 27, 2019 21:53:10.94 NEW SESSION
+Jun 27, 2019 21:53:10.94 [Parent 4384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Jun 27, 2019 21:53:11.13 [Child 6704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Jun 27, 2019 21:53:11.13 [Child 6704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Jun 27, 2019 21:53:13.57 [Child 1620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Jun 27, 2019 21:53:13.57 [Parent 4384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Jun 27, 2019 21:53:17.57 
+Jun 27, 2019 21:53:17.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jun 27, 2019 21:53:17.57 
+
+Jul 01, 2019 11:44:34.88 NEW SESSION
+Jul 01, 2019 11:44:34.88 [5652:3256:0701/114434.840:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Jul 01, 2019 11:51:26.65 [5652:3256:0701/115126.657:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 11:51:55.53 [5652:3256:0701/115155.537:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 11:52:53.30 [5652:3256:0701/115253.301:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 11:54:26.57 [5652:3256:0701/115426.573:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 11:57:50.03 [5652:3256:0701/115750.035:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 12:03:37.94 [5652:3256:0701/120337.943:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 12:13:37.95 [5652:3256:0701/121337.949:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 12:23:37.95 [5652:3256:0701/122337.954:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 12:33:37.96 [5652:3256:0701/123337.960:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 12:43:37.96 [5652:3256:0701/124337.965:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 12:53:37.97 [5652:3256:0701/125337.970:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 15:59:38.72 [5652:3256:0701/155938.720:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 16:28:20.01 [5652:3256:0701/162820.019:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 01, 2019 20:12:28.77 [5652:3256:0701/201228.773:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 02, 2019 24:00:48.97 [5652:3256:0702/000047.011:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 02, 2019 24:35:53.96 [5652:1156:0702/003553.960:ERROR:browser_process_sub_thread.cc(221)] Waited 5426 ms for network service
+
+Jul 03, 2019 11:52:12.85 NEW SESSION
+Jul 03, 2019 11:52:12.85 [2304:2836:0703/115212.796:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Jul 03, 2019 12:03:44.53 [2304:2836:0703/120344.536:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:04:07.43 [2304:2836:0703/120407.429:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:04:54.01 [2304:2836:0703/120454.010:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:06:39.05 [2304:2836:0703/120639.055:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:09:23.47 [2304:2836:0703/120923.476:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:14:49.07 [2304:2836:0703/121449.076:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:24:49.08 [2304:2836:0703/122449.080:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:34:49.08 [2304:2836:0703/123449.084:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:44:49.09 [2304:2836:0703/124449.096:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:54:49.10 [2304:2836:0703/125449.099:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 03, 2019 12:55:29.00 [2304:3892:0703/125529.005:ERROR:browser_process_sub_thread.cc(221)] Waited 1319 ms for network service
+
+Jul 04, 2019 11:01:11.01 NEW SESSION
+Jul 04, 2019 11:01:11.01 [3088:4212:0704/110111.016:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 04, 2019 11:01:40.20 [3088:4212:0704/110140.200:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 04, 2019 11:02:33.76 [3088:4212:0704/110233.762:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 04, 2019 11:04:18.69 [3088:4212:0704/110418.690:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 04, 2019 11:07:50.54 [3088:4212:0704/110750.541:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 04, 2019 11:14:06.61 [3088:4212:0704/111406.617:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 04, 2019 11:24:06.62 [3088:4212:0704/112406.620:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.

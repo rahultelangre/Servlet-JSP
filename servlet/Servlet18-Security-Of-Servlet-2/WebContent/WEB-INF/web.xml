@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>Servlet17-Security-Of-Servlet</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>servlet1</servlet-name>
+    <servlet-class>com.nt.servlet.FirstServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>servlet1</servlet-name>
+    <url-pattern>/security</url-pattern>
+  </servlet-mapping>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>Authentication</web-resource-name>
+      <url-pattern>/security</url-pattern>
+      <http-method>GET</http-method>
+       <http-method>POST</http-method>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>manager</role-name>
+       <role-name>se</role-name>
+    </auth-constraint>
+    
+  </security-constraint>
+   <login-config>
+    <auth-method>FORM</auth-method>
+     <realm-name>myrealm</realm-name>
+      <form-login-config>
+        <form-login-page>/form.html</form-login-page>
+        <form-error-page>/form_fail.html</form-error-page>
+        
+     </form-login-config>
+   
+  </login-config>
+ 
+</web-app>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Jsp12-JavaBean/C:\/Program Files\/Java\/jdk1.8.0_201\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1552457571627"/>
+<typeInfo handle="=Jsp13-JavaBean-Project-UseCase/src&lt;com.nt.service{SalaryService.java[SalaryService" modifiers="513" timestamp="1560414266468"/>
+<typeInfo handle="=Jsp15-mini-Project-mvc2/E:\/Tomcat 9.x\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1555079062000"/>
+<typeInfo handle="=Jsp16-CustomTags/E:\/Tomcat 9.x\/lib\/jsp-api.jar&lt;javax.servlet.jsp.tagext(TagSupport.class[TagSupport" modifiers="33" timestamp="1555079062000"/>
+<typeInfo handle="=JUnit1/src&lt;com.nt.service{AddTwoNumbers.java[AddTwoNumbers" modifiers="1" timestamp="1566799651329"/>
+<typeInfo handle="=JUnit2/src&lt;com.nt.service{SimpleIntrest.java[SimpleIntrest" modifiers="1" timestamp="1566673752278"/>
+</typeInfoHistroy>

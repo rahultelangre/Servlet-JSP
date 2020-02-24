@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Jsp01-Html-to-DB/WebContent/db_jspjsp.jsp&apos; to &apos;DB_jsp.jsp&apos;" description="Rename resource &apos;db_jspjsp.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/db_jspjsp.jsp" name="DB_jsp.jsp" stamp="1558809443829" updateReferences="true"/>
+</session>

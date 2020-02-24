@@ -1,0 +1,9 @@
+127.0.0.1 - - [23/Jun/2019:22:43:31 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:22:43:32 +0530] "GET /Servlet17-Security-Of-Servlet/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:22:43:34 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:22:43:40 +0530] "GET /Servlet17-Security-Of-Servlet/security HTTP/1.1" 200 89
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:22:43:48 +0530] "GET /Servlet17-Security-Of-Servlet/security HTTP/1.1" 200 89
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:22:43:52 +0530] "GET /Servlet17-Security-Of-Servlet/security HTTP/1.1" 200 89
+127.0.0.1 - - [23/Jun/2019:23:08:52 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:23:08:53 +0530] "GET /Servlet17-Security-Of-Servlet/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:23:09:16 +0530] "GET /Servlet17-Security-Of-Servlet/security HTTP/1.1" 200 89

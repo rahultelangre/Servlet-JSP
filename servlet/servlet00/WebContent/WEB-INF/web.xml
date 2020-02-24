@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <servlet>
+     <servlet-name>ses</servlet-name>
+     <servlet-class>com.nt.servlet.SeasonServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>ses</servlet-name>
+     <url-pattern>/sesurl</url-pattern>
+  </servlet-mapping>
+</web-app>

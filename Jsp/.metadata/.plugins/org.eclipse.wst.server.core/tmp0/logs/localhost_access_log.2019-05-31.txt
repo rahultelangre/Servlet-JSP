@@ -1,0 +1,17 @@
+127.0.0.1 - - [31/May/2019:22:56:55 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [31/May/2019:22:56:56 +0530] "GET /Jsp04-Include-Directive/ HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [31/May/2019:22:56:58 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [31/May/2019:22:57:32 +0530] "GET /Jsp04-Include-Directive/a.jsp HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [31/May/2019:22:57:53 +0530] "GET /Jsp04-Include-Directive/ HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [31/May/2019:22:58:14 +0530] "GET /Jsp04-Include-Directive/a.jsp HTTP/1.1" 200 134
+127.0.0.1 - - [31/May/2019:23:08:12 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:08:12 +0530] "GET /Jsp05-Include-Directive2/ HTTP/1.1" 404 1103
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:08:21 +0530] "GET /Jsp05-Include-Directive2/a.jsp HTTP/1.1" 200 135
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:08:28 +0530] "GET /Jsp05-Include-Directive2/a.jsp HTTP/1.1" 200 135
+127.0.0.1 - - [31/May/2019:23:09:13 +0530] "GET /Jsp05-Include-Directive2/ HTTP/1.1" 404 1103
+127.0.0.1 - - [31/May/2019:23:09:13 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [31/May/2019:23:09:22 +0530] "GET /Jsp05-Include-Directive2/a.jsp HTTP/1.1" 200 148
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:10:57 +0530] "GET /Jsp04-Include-Directive/a.jsp HTTP/1.1" 404 1107
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:10:59 +0530] "GET /Jsp04-Include-Directive/a.jsp HTTP/1.1" 404 1107
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:11:14 +0530] "GET /Jsp05-Include-Directive2/ HTTP/1.1" 404 1103
+0:0:0:0:0:0:0:1 - - [31/May/2019:23:11:21 +0530] "GET /Jsp05-Include-Directive2/a.jsp HTTP/1.1" 200 148

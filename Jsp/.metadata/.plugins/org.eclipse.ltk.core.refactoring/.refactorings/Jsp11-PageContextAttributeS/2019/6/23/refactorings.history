@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Jsp11-PageContextAttributeS/WebContent/ajsp.jsp&apos; to &apos;a.jsp&apos;" description="Rename resource &apos;ajsp.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/ajsp.jsp" name="a.jsp" stamp="1559903130378" updateReferences="true"/>
+</session>

@@ -1,0 +1,18 @@
+package com.nt.string_01;
+
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+import java.util.TreeSet;
+
+public class FInd_Duplicate_Char_03 {
+   public static void main(String[] args) {
+	 
+}
+}
+
+abstract class Animal{
+	public abstract void makenoise();
+	public abstract void move();
+	
+}

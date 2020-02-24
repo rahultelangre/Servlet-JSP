@@ -1,0 +1,100 @@
+package com.nt.string_01;
+
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+import java.util.TreeSet;
+
+public class FInd_Duplicate_Char_03 {
+
+	
+	public static void main(String[] args) {
+	/*	String s = "simplepstt";
+		char[] s1=s.toCharArray();
+		int count=0;
+		char temp=0;
+		for (int i = 0; i < s.length(); i++) {
+			for (int j = i+1; j < s.length(); j++) {
+				if(s1[i]==s1[j]){
+					count=count+1;
+					System.out.println(s1[i]);
+					break;
+				}
+				temp=s1[i];
+			}
+			
+		}
+		//System.out.println(temp+" "+count);
+	*/
+	 TreeSet<Employee> s=new TreeSet<Employee>();
+//	 Employee e1=new Employee();
+	// e1.setId(1);
+	// e1.setName("name");
+	// Employee e2=new Employee();
+	// e2.setId(1);
+	// e2.setName("name");
+	// s.add(e1);
+	// s.add(e2);
+	 
+	 Employee e1=new Employee(1,"ram");
+	 Employee e2=new Employee(1,"ram");
+	 
+	 s.add(new Employee(1,"ram"));
+	 s.add(new Employee(2,"jai"));
+	 s.add(new Employee(3,"rkam"));
+	 System.out.println(s.size());
+	 Employee e3=new Employee(1,"ram");
+	 
+	 Stack<String>  sw=new Stack();
+	 Queue<String>  q=new LinkedList();
+	 
+	 sw.push("A");
+	 sw.push("B");
+	 sw.push("C");
+	 
+	 q.add(sw.pop());
+	 sw.push("D");
+	 sw.push("E");
+	 
+	 q.add("F");
+	 sw.push(q.remove());
+	 q.add(sw.pop());
+	 q.add(sw.pop());
+	 
+	 System.out.println(sw);
+	 System.out.println(q);
+	 
+	 
+	}
+
+}
+
+class Employee{
+	int id;
+	String name;
+	
+	
+	public Employee(int id, String name) {
+		super();
+		this.id = id;
+		this.name = name;
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + "]";
+	}
+	
+	
+}

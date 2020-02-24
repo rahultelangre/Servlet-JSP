@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\manoj\eclipse-workspace\servlet\Servlet29-SessionTracking-Cookies"/>
+			<item value="C:\Users\manoj\eclipse-workspace\servlet\Servlet14-Servlet-Wrappers-By-LoginApp\src\com\nt\filters\LoginFilter.java"/>
+			<item value="C:\Users\manoj\eclipse-workspace\servlet\Servlet13-Servlet-To-DB-With-Servlet-Config\src\com\nt\servlet\DBServlet.java"/>
+			<item value="C:\Users\manoj\eclipse-workspace\servlet\Servlet10-DoublePostingFilter\src\com\nt\filters\DoublePostingPreventionFilter.java"/>
+			<item value="C:\Users\manoj\eclipse-workspace\servlet\Servlet10-DoublePostingPreventedFilter"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="web.Servlet30_HttpSession_Tracking"/>
+			<item value="web.Servlet15_ConnectionPool_01"/>
+			<item value="web.Servlet1242"/>
+			<item value="web.Servlet11_MavenProj_DoublePosting"/>
+			<item value="web.Doubleposting"/>
+		</list>
+		<list key="groupId">
+			<item value="web"/>
+		</list>
+		<list key="artifactId">
+			<item value="Servlet30-HttpSession-Tracking"/>
+			<item value="Servlet15-ConnectionPool-01"/>
+			<item value="Servlet1242"/>
+			<item value="Servlet11-MavenProj-DoublePosting"/>
+			<item value="Doubleposting"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

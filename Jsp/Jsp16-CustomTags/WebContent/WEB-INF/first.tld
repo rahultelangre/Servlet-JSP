@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>  
+<!DOCTYPE taglib  
+        PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"  
+    "http://java.sun.com/j2ee/dtd/web-jsptaglibrary_1_2.dtd">  
+  
+<taglib>  
+  
+  <tlib-version>1.0</tlib-version>  
+  <jsp-version>1.2</jsp-version>  
+  <short-name>simple</short-name>  
+  <uri>http://tomcat.apache.org/example-taglib</uri>  
+  
+     <!-- message tag -->
+     <tag>
+       <name>message</name>
+       <tag-class>com.nt.tags.PrintMessageTag</tag-class>
+       <body-content>empty</body-content>
+       <description>Prime Number generation</description>
+     </tag>  
+     
+     <!-- display tag -->
+     <tag>
+       <name>display</name>
+       <tag-class>com.nt.tags.DisplayTag</tag-class>
+       <body-content>Jsp</body-content>
+       <description>Display text in diffrent fonts</description>
+       
+     </tag>
+</taglib>  

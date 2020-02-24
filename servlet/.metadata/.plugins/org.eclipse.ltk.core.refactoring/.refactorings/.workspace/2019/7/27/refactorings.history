@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FileDownloading&apos; to &apos;Servlet21-FileDownloading&apos;" description="Rename resource &apos;FileDownloading&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/FileDownloading" name="Servlet21-FileDownloading" stamp="1561961934451" updateReferences="true"/>
+</session>

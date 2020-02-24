@@ -1,0 +1,50 @@
+<form name="form" action="controller" method="post">
+ <table border="1" cellpadding="4" align=center bgcolor="cyan">
+   <tr>
+     <th>Select Category</th>
+     <th>
+       <select name='category'>
+        <option selected value='select ---value'>select a value</option>
+        <option value='java'>JAVA</option>
+        <option value='.net'>.NET</option>
+        <option value='php'>PHP</option>
+      </select>
+      <span id="categoryErr"></span>
+     </th>
+   </tr>
+   <tr>
+    <th><input type='button' value='HtmlOutput' onClick='isHtml()'></th>
+    <th><input type='button' value='ExcelOutput' onClick='isExcel()'></th>
+   </tr>
+ 
+ </table>
+ <input type='hidden' name='source' readonly/>
+</form>
+
+<Script language="javaScript">
+ function isHtml(){
+	 //set html word to hiddenBox
+	 form.source.value='html';
+	 validate();
+ }
+ 
+ function isExcel(){
+	 //set excel word to hhiddenBox
+	 form.source.value='excel';
+	 validate();
+ }
+
+ function validate(){
+	 if(form.category.selectIndex=='0'){
+		 document.getElementById("categoryErr").innerHTML="you must select category";
+		 document.getElementById("categoryErr").style="color:red"; 
+		 return false;
+	 }//if
+	 else{
+		 form.submit();
+		 return true;
+		 
+	 }//else
+ }//function
+
+</Script>

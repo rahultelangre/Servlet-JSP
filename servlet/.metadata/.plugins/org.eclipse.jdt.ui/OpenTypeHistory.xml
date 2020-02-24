@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Servlet09-Filters/C:\/Program Files\/Java\/jdk1.8.0_201\/jre\/lib\/rt.jar&lt;javax.imageio.spi(ServiceRegistry$Filter.class[Filter" modifiers="1545" timestamp="1552457571627"/>
+<typeInfo handle="=Servlet09-Filters/E:\/Tomcat 9.x\/lib\/servlet-api.jar&lt;javax.servlet(Filter.class[Filter" modifiers="1537" timestamp="1555079062000"/>
+<typeInfo handle="=Servlet14-Servlet-Wrappers-By-LoginApp/E:\/Tomcat 9.x\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpServletRequestWrapper.class[HttpServletRequestWrapper" modifiers="33" timestamp="1555079062000"/>
+<typeInfo handle="=Servlet19-LayerdApp-Student/src&lt;com.nt.dao{StudentDAO.java[StudentDAO" modifiers="513" timestamp="1561619358053"/>
+<typeInfo handle="=Servlet19-LayerdApp-Student/src&lt;com.nt.service{StudentService.java[StudentService" modifiers="513" timestamp="1561619726229"/>
+<typeInfo handle="=Servlet19-LayerdApp-Student/E:\/Tomcat 9.x\/lib\/servlet-api.jar&lt;javax.servlet(Servlet.class[Servlet" modifiers="1537" timestamp="1555079062000"/>
+<typeInfo handle="=Servlet03-Country-cities/E:\/Tomcat 9.x\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1555079062000"/>
+<typeInfo handle="=Servlet30-HttpSession-Tracking/src\/main\/java&lt;com.nt.dao{NaukariDao.java[NaukariDao" modifiers="513" timestamp="1563726708428"/>
+<typeInfo handle="=Servlet30-HttpSession-Tracking/src\/main\/java&lt;com.nt.service{NaukariService.java[NaukariService" modifiers="513" timestamp="1563726926675"/>
+</typeInfoHistroy>

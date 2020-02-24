@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 style="color:red;text-align:center">Welcome to country </h1>
+<form  action="countryurl" name="frm1" method="get" >
+
+ <select name="country" onChange="frm1.submit()">
+ 
+  <option >..select Capitals..</option>
+  
+  <option value="0">India</option>
+  <option value="1">Australia</option>
+  <option value="2">Japan</option>
+  
+</select>
+</form>
+<form  action="countryurl" name="frm2" method="post" >
+
+ <select name="country" onChange="frm2.submit()">
+ 
+  <option >..select Cities..</option>
+  
+  <option value="india">India</option>
+  <option value="australia">Australia</option>
+  <option value="usa">USA</option>
+  
+</select>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script language="javascript">
+function sum(){
+	frm.src.value="sum";
+	return true;
+}
+function minus(){
+	frm.src.value="minus";
+		return true;
+}
+function product(){
+	frm.src.value="product";
+	return true;
+}
+
+</script>
+</head>
+<body>
+<h1 style="color:red">Welcome Multiple links in hibernate </h1>
+<form action="processurl" method="get" name="frm">
+Value1:<input type="text" name="t1"><br>
+Value2:<input type="text" name="t2"><br>
+<input type="hidden" name="src">
+Add:<input type="submit"  name="s1" value="add" onclick="sum()"><br>
+Sub:<input type="submit"  name="s1" value="sub" onclick="minus()"><br>
+Mul:<input type="submit"  name="s1" value="mul" onclick="product()">
+<br>
+</form>
+<a href="processurl?src=link1">Sys date</a>&nbsp;&nbsp;
+<a href="processurl?src=link2">Sys Properties</a>
+
+</body>
+</html>

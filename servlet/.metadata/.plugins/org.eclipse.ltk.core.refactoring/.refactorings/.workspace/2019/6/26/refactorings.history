@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Servlet18-Security-Of-Servlet&apos; to &apos;Servlet18-Security-Of-Servlet-2&apos;" description="Rename resource &apos;Servlet18-Security-Of-Servlet&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Servlet18-Security-Of-Servlet" name="Servlet18-Security-Of-Servlet-2" stamp="1561311672344" updateReferences="true"/>
+</session>

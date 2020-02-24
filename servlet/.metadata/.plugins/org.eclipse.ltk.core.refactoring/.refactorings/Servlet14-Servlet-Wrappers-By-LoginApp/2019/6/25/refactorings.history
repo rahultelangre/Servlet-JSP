@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.nt.wrappers.MyRequesr&apos; to &apos;MyRequest&apos;&#x0D;&#x0A;- Original project: &apos;Servlet14-Servlet-Wrappers-By-LoginApp&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.wrappers.MyRequesr&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nt.wrappers.MyRequest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyRequesr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.nt.wrappers{MyRequesr.java[MyRequesr" matchStrategy="1" name="MyRequest" qualified="false" references="true" similarDeclarations="false" stamp="1560751073639" textual="false" version="1.0"/>
+</session>
